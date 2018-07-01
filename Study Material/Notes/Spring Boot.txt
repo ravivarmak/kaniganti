@@ -1,0 +1,9 @@
+Open STS 
+File New ->Other->Spring Boot->Springstarter project
+
+Select packaging war
+Fill all the fields
+Selct Web in the next page
+finish
+
+your project is ready
